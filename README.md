@@ -1,2 +1,2 @@
 # learn-kotlin
-Sebuah repository belajjar KOTLIN
+Sebuah repository belajar KOTLIN
